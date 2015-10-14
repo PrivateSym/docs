@@ -6,6 +6,6 @@ General documentation for team
 - Github Account: https://github.com/privatesymfony
 - Github Organization: https://github.com/PrivateSym/
 - Github Docs: https://github.com/PrivateSym/docs
-- Website: http://psym.com
+- Website: http://privatesym.com
 
 
