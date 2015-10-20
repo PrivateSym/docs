@@ -9,6 +9,6 @@ General documentation for team
 - Website: http://privatesym.com
 - Linkedin https://vn.linkedin.com/in/manhapt
 - Guru http://www.guru.com/freelancers/nguyen-van-manh-x
-- Upworks (oDesk+eLance): https://www.upwork.com/freelancers/~01470dd4e46ff1911f
+- Upworks(oDesk+eLance): https://www.upwork.com/freelancers/~01470dd4e46ff1911f
 - 
 
